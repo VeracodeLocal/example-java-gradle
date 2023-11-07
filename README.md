@@ -18,3 +18,4 @@ cd example-java-gradle
 git checkout gradle-plugin-5.5.1 // the plugin is already setup in build.gradle in this branch
 SRCCLR_API_TOKEN=<yourSourceClearToken> ./gradlew clean build srcclr
 ```
+s
